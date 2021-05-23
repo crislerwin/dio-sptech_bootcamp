@@ -12,6 +12,6 @@ O SPTech Desenvolvimento Fullstack é um programa gratuito de capacitação de p
 
 Esta é uma introdução a novos usuários da plataforma, demonstrando os seus principais aspectos e como utiliza-la da melhor forma.
 
-## Introdução a lógica de programação
+## Lógica de Programação Essencial
 
 Esta matéria ensina os conceitos basicos de lógica de programação introdução a algoritmos, criação de fluxogramas e pseudocódigos.
