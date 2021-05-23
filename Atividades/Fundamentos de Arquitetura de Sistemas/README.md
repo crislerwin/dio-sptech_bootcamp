@@ -76,3 +76,47 @@
 - XSD - XML Schema Definition
 - É um schema no formato XML para definir a estrutura de dados que será validada no XML.
 - O XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
+
+# Aprenda o que são REST, API e JSON - Aula 4
+
+## Objetivos da Aula
+
+1. O que é REST
+2. Vantagens de se utilizar REST
+3. O que é API
+4. Entendendo os métodos utilizados pelo REST
+5. Estrutura de um REST
+6. Estrutura de um JSON
+
+## REST
+
+- REST - Representational State Transfer.
+- É um estilo de arquitetura de software que define a implementação de um serviço web.
+- Podem trabalhar com os formatos XML,JSON ou outros.
+
+## Vantagens do REST
+
+- Permite integrações entre aplicações e também entre cliente e servidor em páginas web e aplicações.
+- Utiliza dos métodos HTTP para definir a operação que está sendo efetuada.
+- Arquitetura de fácil compreensão.
+
+## API
+
+- API - Application Programming Interface
+- São conjuntos de rotinas documentados e disponibilizados por uma aplicação para que outras aplicações possam consumir suas funcionalidades
+- Ficou popular com o aumento dos serviços web.
+- As maiores plataformas de tecnologia disponibilizam APIs para acessos de suas funcionalidades, algumas delas são: Facebook, Twitter, Telegram, Whatsapp, Github entre outras.
+
+## Principais Métodos HTTP
+
+- GET - Solicita a representação de um recursos.
+- POST - Solicita a criação de um recurso.
+- DELETE - Solicita a exclusão de um recurso.
+- PUT - Solicita a atualização de um recurso.
+
+## JSON
+
+- JSON - JavaScript Object Notation.
+- Formatação leve utilizada para troca de mensagens entre sistemas.
+- Usa-se de uma estrutura de chave valor e também de listas ordenadas.
+- Um dos formatos mais populares e mais utilizados para troca de mensagens entre sistemas.
