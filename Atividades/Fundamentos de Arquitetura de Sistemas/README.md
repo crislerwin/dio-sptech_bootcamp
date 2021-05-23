@@ -56,3 +56,23 @@
 - SOAP Envelope é o primeiro elemento do documento e é usado para encapsular toda a mensagem SOAP.
 - SOAP Header é o elemento onde possui informações de atributos e metadados de requisição.
 - SOAP Body é o elemento que contém os detalhes da mensagem.
+
+# Entendendo o que é WSDL e XSD - Aula 3
+
+## Objetivos da Aula
+
+1. O que é WSDL
+2. O que é XSD
+3. SOAP na prática
+
+## WSDL
+
+- WSDL - Web Services Description Language
+- Usado para descrever Web Services, funciona como um contrato do Serviço.
+- A descrição é feito em um documento XML, onde é descrito o serviço, especificações de acesso, operações e métodos.
+
+## XSD
+
+- XSD - XML Schema Definition
+- É um schema no formato XML para definir a estrutura de dados que será validada no XML.
+- O XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
