@@ -1,3 +1,4 @@
+// Não adicionei comentarios nos algoritmos
 programa
 {
 	
