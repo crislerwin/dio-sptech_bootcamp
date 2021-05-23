@@ -10,8 +10,8 @@ O SPTech Desenvolvimento Fullstack é um programa gratuito de capacitação de p
 
 ## Bem vindo a Digital Innovation One
 
-Esta é uma introdução a novos usuários da plataforma, demonstrando
+Esta é uma introdução a novos usuários da plataforma, demonstrando os seus principais aspectos e como utiliza-la da melhor forma.
 
 ## Introdução a lógica de programação
 
-Esta matéria ensina os conceitos basicos de lógica de programação,como algoritmos, pseudocódigo e fluxogramas
+Esta matéria ensina os conceitos basicos de lógica de programação introdução a algoritmos, criação de fluxogramas e pseudocódigos.

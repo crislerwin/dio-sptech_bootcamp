@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Crisler"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-05-23 10:47:04 "/>
+        <attribute name="created" value="Q3Jpc2xlcjtXSU5ET1dTOzIwMjEtMDUtMjI7IjExOjI1OjU1ICI7MjQ2Nw=="/>
+        <attribute name="edited" value="Q3Jpc2xlcjtXSU5ET1dTOzIwMjEtMDUtMjM7IjEwOjQ3OjA0ICI7MjsyNTc0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <input variable="nome"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="media" newline="True"/>
+            <output expression="nome" newline="True"/>
+            <if expression="media&gt;7">
+                <then>
+                    <output expression="&quot;Lindo e inteligente, voc&#234; &#233; demais&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Sua beleza ainda te salva, inteligente n&#227;o &#233;s &#55357;&#56839;&#55357;&#56892;&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
