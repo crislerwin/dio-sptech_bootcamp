@@ -120,3 +120,20 @@
 - Formatação leve utilizada para troca de mensagens entre sistemas.
 - Usa-se de uma estrutura de chave valor e também de listas ordenadas.
 - Um dos formatos mais populares e mais utilizados para troca de mensagens entre sistemas.
+
+# Integração com Rest e métodos HTTP na prática - Aula 5
+
+## Objetivos da aula
+
+1. Integração com serviços REST
+2. Métodos HTTP na prática
+3. Código de estado HTTP
+
+## Código de Estado (Status Code)
+
+- Usado pelo servido para avisar o cliente sobre o estado da operação solicitada
+- 1xx - Informativo
+- 2xx - Sucesso
+- 3xx - Redirecionamento
+- 4xx - Erro do Cliente
+- 5xx - Erro do Servidor
