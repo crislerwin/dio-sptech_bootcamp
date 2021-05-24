@@ -137,3 +137,73 @@
 - 3xx - Redirecionamento
 - 4xx - Erro do Cliente
 - 5xx - Erro do Servidor
+
+# Conceitos de arquitetura em aplicações para internet - Aula 6
+
+## Objetivos da aula
+
+1. Tipos de arquitetura
+2. Comparativo entre tipos de arquitetura
+3. Gerenciamento de erros e volume de acesso
+
+## Requisitos básicos
+
+- Conhecimentos básicos sobre protocolo HTTP e proxy
+- Entendimento sobre REST API
+- Conhecimentos sobre Docker
+- Saber programar
+
+# Comparando os modelos Monolito e microserviços
+
+## Monolito
+
+Pros
+
+- Baixa complexidade
+- Monitoramento simplificado
+
+Contras
+
+- Stack única
+- Compartilhamento de recursos
+- Mais complexo a escalabilidade
+
+## Microsserviço #1
+
+Pros
+
+- Stack dinâmica
+- Simples escalabilidade
+
+Contras
+
+- Acoplamento
+- Monitoramento mais complexo
+- Provisionamento mais complexo
+
+## Microsserviços #2
+
+Pros
+
+- Stack dinâmica
+- Simples escalabilidade
+- Desacoplamento
+
+Contras
+
+- Monitoramento mais complexo
+- Provisionamento mais complexo
+
+## Microsserviços #3
+
+Pros
+
+- Stack dinâmica
+- Simples escalabilidade
+- Desacoplamento
+- Menor complexidade
+
+Contras
+
+- Provisionamento mais complexo
+- Plataforma inteira depende do gerenciador de pipeline
